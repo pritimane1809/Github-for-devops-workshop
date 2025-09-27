@@ -6,3 +6,4 @@ git restore
 git remote set-url origin https://(token)
 git push origin master
 git clone (url)
+git remote -v = show all url
